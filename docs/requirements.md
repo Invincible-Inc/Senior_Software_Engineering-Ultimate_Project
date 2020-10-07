@@ -76,7 +76,7 @@ Ultimate Project将会是项目管理工具的终极解决方案，它拥有当�
 - 拖拽创建流程，快速生成蓝图；
 - 自动通知相关人员做下一步任务
 #### 2.2.2 事件流
-
+![蓝图活动图](https://github.com/Invincible-Inc/Senior_Software_Engineering-Ultimate_Project/blob/main/docs/requirements_images/blueprint_active.png)
 #### 2.2.3 特殊需求
 
 无
@@ -102,7 +102,7 @@ Ultimate Project将会是项目管理工具的终极解决方案，它拥有当�
 - 团队成员共享
 
 #### 2.3.2 事件流
-
+![在线文档活动图](https://github.com/Invincible-Inc/Senior_Software_Engineering-Ultimate_Project/blob/main/docs/requirements_images/document.png)
 #### 2.3.3 特殊需求
 
 无
