@@ -45,7 +45,9 @@
 
 #### a. 用例图
 
-<img src="https://codimd.s3.shivering-isles.com/demo/uploads/upload_f674efc9c6cf7b938d30f0b7c1e47e03.png" style="zoom: 67%;" />
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_f674efc9c6cf7b938d30f0b7c1e47e03.png)
+
 
 #### b. 用例规约
 
@@ -56,7 +58,7 @@
 |角色 | 所有用户|
 |用例说明|用户必须先登录进入系统才能完成后续操作|
 |前置条件|成功进入网站首页|
-|基本事件流|<img src="https://codimd.s3.shivering-isles.com/demo/uploads/upload_065d88391e0cf14cb0fe3ea890aa8330.png" style="zoom: 67%;" />|
+|基本事件流| ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_065d88391e0cf14cb0fe3ea890aa8330.png) |
 |异常事件流|用户名不存在，密码输入错误|
 |后置事件|登陆成功，进入用户个人页面|
 
@@ -223,7 +225,9 @@ Team：
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_40d74bbe56bf02cb6580bb97e23ddf93.png)
 
 ### 3. 分析机制
+
 对于重要信息的要求比较一致，其他类没有特殊考虑
+
 |分析类|分析机制|
 |---|----|
 |User|持久性、安全性|
